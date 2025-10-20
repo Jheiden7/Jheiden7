@@ -27,6 +27,9 @@
 ![Sklearn](https://img.shields.io/badge/Sklearn-05122A?style=flat&logo=Scikit-learn)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-05122A?style=flat&logo=tensorflow)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker)
+![MLflow](https://img.shields.io/badge/MLflow-05122A?style=flat&logo=mlflow)
+
+
 
 ### Visualization
 
