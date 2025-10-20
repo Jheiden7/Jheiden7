@@ -1,4 +1,3 @@
-<div align="center">
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Jhonny</h1>
 </div>
 <img src="https://i.imgur.com/UdxAC69.jpeg">
@@ -6,13 +5,68 @@
 ## About me
 
 - 🔭 I’m currently working on **Embedded Systems Development**
-- 🌱 I’m currently learning **SQL Server**
+- 🌱 I’m currently learning **PostgreSQL**
 - 💬 Ask me about **Data Collection**, **Data Pipelines**, **ETL Processes**
 - ⚡ Fun fact: **Any data specialty is meaningless without a clear understanding of the business context behind it**
 
 ## 🛠️ My Skills:
 
 ### Programing Languages:
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-05122A)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-05122A?style=flat&logo=C%2B%2B)&nbsp;
+![C](https://img.shields.io/badge/C-05122A?style=flat&logo=C)&nbsp;
+![MATLAB](https://img.shields.io/badge/MATLAB-05122A?style=flat)
+
+### Data Engineering & ML
+
+![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![SQLite](https://img.shields.io/badge/SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-05122A?style=flat&logo=pandas)&nbsp;
+![Numpy](https://img.shields.io/badge/NumPy-05122A?style=flat&logo=numpy)&nbsp;
+![Sklearn](https://img.shields.io/badge/Sklearn-05122A?style=flat&logo=Scikit-learn)&nbsp;
+![Tensorflow](https://img.shields.io/badge/Tensorflow-05122A?style=flat&logo=tensorflow)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker)
+
+### Visualization
+
+![Streamlit](https://img.shields.io/badge/Streamlit-05122A?style=flat&logo=streamlit)&nbsp;
+![Matplotlib](https://img.shields.io/badge/Matplotlib-05122A?style=flat&logo=matplotlib)&nbsp;
+![Seaborn](https://img.shields.io/badge/Seaborn-05122A?style=flat&logo=seaborn)
+
+### Cloud & Protocols
+
+![Cloudflare](https://img.shields.io/badge/Cloudflare-05122A?style=flat&logo=cloudflare)&nbsp;
+![AWS IoT Core](https://img.shields.io/badge/AWS%20IoT%20Core-05122A?style=flat)&nbsp;
+![MQTT](https://img.shields.io/badge/MQTT-05122A?style=flat&logo=mqtt)&nbsp;
+![LoRa](https://img.shields.io/badge/LoRa-05122A?style=flat)&nbsp;
+![Modbus TCP](https://img.shields.io/badge/Modbus%20TCP-05122A?style=flat)&nbsp;
+![SSH](https://img.shields.io/badge/SSH-05122A?style=flat)&nbsp;
+![VNC](https://img.shields.io/badge/VNC-05122A?style=flat)
+
+### Embedded Systems
+
+![ESP32](https://img.shields.io/badge/ESP32-05122A?style=flat&logo=espressif)&nbsp;
+![Arduino](https://img.shields.io/badge/Arduino-05122A?style=flat&logo=Arduino)&nbsp;
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-05122A?style=flat&logo=Raspberry%20Pi)&nbsp;
+![AMB82-Mini](https://img.shields.io/badge/AMB82%20Mini-05122A?style=flat&logo=Realtek)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
