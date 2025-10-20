@@ -1,20 +1,13 @@
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi, I'm Jhonny 👋</h1></summary>
-  </ul>
+<div align="center">
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Jhonny</h1>
 </div>
+<img src="https://i.imgur.com/UdxAC69.jpeg">
 
-<!--
-**Jheiden7/Jheiden7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Embedded Systems Development**
+- 🌱 I’m currently learning **SQL Server**
+- 💬 Ask me about **Data Collection**, **Data Pipelines**, **ETL Processes**
+- ⚡ Fun fact: **Any data specialty is meaningless without a clear understanding of the business context behind it**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
