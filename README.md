@@ -3,11 +3,16 @@
 </div>
 <img src="https://i.imgur.com/UdxAC69.jpeg">
 
-## About me:
+## About me
 
 - 🔭 I’m currently working on **Embedded Systems Development**
 - 🌱 I’m currently learning **SQL Server**
 - 💬 Ask me about **Data Collection**, **Data Pipelines**, **ETL Processes**
 - ⚡ Fun fact: **Any data specialty is meaningless without a clear understanding of the business context behind it**
+
+## 🛠️ My Skills:
+
+### Programing Languages:
+
 
 
