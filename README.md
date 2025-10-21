@@ -56,14 +56,14 @@
 
 ### Others
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=flat)
-![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)
-![Anaconda](https://img.shields.io/badge/Anaconda-05122A?style=flat&logo=Anaconda)
-![Platformio](https://img.shields.io/badge/Platformio-05122A?style=flat&logo=platformio)
-![Node-RED](https://img.shields.io/badge/Node--RED-05122A?style=flat&logo=node-red)
-![Debian](https://img.shields.io/badge/Debian-05122A?style=flat&logo=debian)
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-05122A?style=flat&logo=linux%20mint)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-05122A?style=flat&logo=Excel)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=flat)&nbsp;
+![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)&nbsp;
+![Anaconda](https://img.shields.io/badge/Anaconda-05122A?style=flat&logo=Anaconda)&nbsp;
+![Platformio](https://img.shields.io/badge/Platformio-05122A?style=flat&logo=platformio)&nbsp;
+![Node-RED](https://img.shields.io/badge/Node--RED-05122A?style=flat&logo=node-red)&nbsp;
+![Debian](https://img.shields.io/badge/Debian-05122A?style=flat&logo=debian)&nbsp;
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-05122A?style=flat&logo=linux%20mint)&nbsp;
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-05122A?style=flat&logo=Excel)&nbsp;
 ![Regex](https://img.shields.io/badge/Regex-05122A?style=flat&logo=Regex)
 
 
