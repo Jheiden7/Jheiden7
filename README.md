@@ -58,6 +58,7 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=flat)&nbsp;
 ![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)&nbsp;
+![Jupyter](https://img.shields.io/badge/Jupyter-05122A?logo=jupyter)
 ![Anaconda](https://img.shields.io/badge/Anaconda-05122A?style=flat&logo=Anaconda)&nbsp;
 ![Platformio](https://img.shields.io/badge/Platformio-05122A?style=flat&logo=platformio)&nbsp;
 ![Node-RED](https://img.shields.io/badge/Node--RED-05122A?style=flat&logo=node-red)&nbsp;
