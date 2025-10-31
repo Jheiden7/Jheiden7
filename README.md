@@ -1,11 +1,11 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Jhonny</h1>
+I'm Jhonny</h1>
 </div>
 <img src="https://i.imgur.com/UdxAC69.jpeg">
 
 ## About me
 
 - 🔭 I’m currently working on **Embedded Systems Development**
-- 🌱 I’m currently learning **PostgreSQL** and **Power BI**
+- 🌱 I’m currently learning **PostgreSQL** and **Looker Studio**
 - 💬 Ask me about **Data Collection**, **Data Pipelines**, **ETL Processes**
 - ⚡ Fun fact: **Any data specialty is meaningless without a clear understanding of the business context behind it**
 
@@ -13,7 +13,7 @@
 
 ### Programing Languages:
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![SQL](https://img.shields.io/badge/SQL-05122A)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-05122A?style=flat&logo=https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-05122A?style=flat&logo=C%2B%2B)&nbsp;
 ![C](https://img.shields.io/badge/C-05122A?style=flat&logo=C)&nbsp;
 ![MATLAB](https://img.shields.io/badge/MATLAB-05122A?style=flat)
@@ -33,6 +33,8 @@
 
 ### Visualization
 
+![Power BI](https://img.shields.io/badge/Power%20BI-05122A?style=flat)
+![Tableau](https://img.shields.io/badge/Tableau-05122A?style=flat)
 ![Streamlit](https://img.shields.io/badge/Streamlit-05122A?style=flat&logo=streamlit)&nbsp;
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-05122A?style=flat&logo=matplotlib)&nbsp;
 ![Seaborn](https://img.shields.io/badge/Seaborn-05122A?style=flat&logo=seaborn)
