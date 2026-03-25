@@ -4,7 +4,7 @@
 ## About me
 
 - 🔭 I’m currently working on **Embedded Systems Development**
-- 🌱 I’m currently learning **PostgreSQL** and **Looker Studio**
+- 🌱 I’m currently upskilling in **Cloud Engineering (GCP)**
 - 💬 Ask me about **Data Collection**, **Data Pipelines**, **ETL Processes**
 - ⚡ Fun fact: **Any data specialty is meaningless without a clear understanding of the business context behind it**
 
