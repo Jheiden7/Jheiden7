@@ -4,18 +4,18 @@
 ## About me
 
 - 🔭 I’m currently working on **Embedded Systems Development** & **Deep Learning Models Training**
-- 🌱 I’m currently upskilling in **Cloud Engineering (GCP)**
+- 🌱 I’m currently upskilling in **Cloud Computing**
 - 💬 Ask me about **Embedded Systems**, **IoT**, **Artificial Intelligence**
 
 ## 🛠️ My Skills:
 
 ### Programing Languages
 
-![C++](https://img.shields.io/badge/C%2B%2B-05122A?style=flat&logo=C%2B%2B)&nbsp;
-![C](https://img.shields.io/badge/C-05122A?style=flat&logo=C)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-05122A?style=flat&logo=C%2B%2B)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-05122A?style=flat&logo=https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)&nbsp;
 ![MATLAB](https://img.shields.io/badge/MATLAB-05122A?style=flat)
+![C](https://img.shields.io/badge/C-05122A?style=flat&logo=C)&nbsp;
 
 ### Embedded Systems
 
