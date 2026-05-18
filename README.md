@@ -9,13 +9,6 @@
 
 ## 🛠️ My Skills:
 
-### Embedded Systems
-
-![ESP32](https://img.shields.io/badge/ESP32-05122A?style=flat&logo=espressif)&nbsp;
-![Arduino](https://img.shields.io/badge/Arduino-05122A?style=flat&logo=Arduino)&nbsp;
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-05122A?style=flat&logo=Raspberry%20Pi)&nbsp;
-![AMB82-Mini](https://img.shields.io/badge/AMB82%20Mini-05122A?style=flat&logo=Realtek)
-
 ### Programing Languages
 
 ![C++](https://img.shields.io/badge/C%2B%2B-05122A?style=flat&logo=C%2B%2B)&nbsp;
@@ -23,6 +16,23 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-05122A?style=flat&logo=https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)&nbsp;
 ![MATLAB](https://img.shields.io/badge/MATLAB-05122A?style=flat)
+
+### Embedded Systems
+
+![ESP32](https://img.shields.io/badge/ESP32-05122A?style=flat&logo=espressif)&nbsp;
+![Arduino](https://img.shields.io/badge/Arduino-05122A?style=flat&logo=Arduino)&nbsp;
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-05122A?style=flat&logo=Raspberry%20Pi)&nbsp;
+![AMB82-Mini](https://img.shields.io/badge/AMB82%20Mini-05122A?style=flat&logo=Realtek)
+
+### Machine Learning & AI
+
+![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![SQLite](https://img.shields.io/badge/SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-05122A?style=flat&logo=pandas)&nbsp;
+![Numpy](https://img.shields.io/badge/NumPy-05122A?style=flat&logo=numpy)&nbsp;
+![Sklearn](https://img.shields.io/badge/Sklearn-05122A?style=flat&logo=Scikit-learn)&nbsp;
+![Tensorflow](https://img.shields.io/badge/Tensorflow-05122A?style=flat&logo=tensorflow)&nbsp;
+![MLflow](https://img.shields.io/badge/MLflow-05122A?style=flat&logo=mlflow)
 
 ### Cloud & Protocols
 
@@ -34,23 +44,13 @@
 ![VNC](https://img.shields.io/badge/VNC-05122A?style=flat)
 ![AWS IoT Core](https://img.shields.io/badge/AWS%20IoT%20Core-05122A?style=flat)&nbsp;
 
-### Data Engineering & ML
-
-![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![SQLite](https://img.shields.io/badge/SQLite-05122A?style=flat&logo=sqlite)&nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-05122A?style=flat&logo=pandas)&nbsp;
-![Numpy](https://img.shields.io/badge/NumPy-05122A?style=flat&logo=numpy)&nbsp;
-![Sklearn](https://img.shields.io/badge/Sklearn-05122A?style=flat&logo=Scikit-learn)&nbsp;
-![Tensorflow](https://img.shields.io/badge/Tensorflow-05122A?style=flat&logo=tensorflow)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker)
-![MLflow](https://img.shields.io/badge/MLflow-05122A?style=flat&logo=mlflow)
-
 ### Others
 
 ![Platformio](https://img.shields.io/badge/Platformio-05122A?style=flat&logo=platformio)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=flat)&nbsp;
 ![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)&nbsp;
 ![Jupyter](https://img.shields.io/badge/Jupyter-05122A?logo=jupyter)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker)
 ![Anaconda](https://img.shields.io/badge/Anaconda-05122A?style=flat&logo=Anaconda)&nbsp;
 ![Node-RED](https://img.shields.io/badge/Node--RED-05122A?style=flat&logo=node-red)&nbsp;
 ![Debian](https://img.shields.io/badge/Debian-05122A?style=flat&logo=debian)&nbsp;
