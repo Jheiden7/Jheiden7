@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Embedded Systems Development**
 - 🌱 I’m currently upskilling in **Cloud Engineering (GCP)**
-- 💬 Ask me about **Embedded Systems**, **IoT**, **Communication Protocols**
+- 💬 Ask me about **Embedded Systems**, **IoT**, **Artificial Intelligence**
 
 ## 🛠️ My Skills:
 
